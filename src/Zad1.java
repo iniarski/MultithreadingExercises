@@ -43,9 +43,9 @@ public class Zad1{
         public void run() { // <- nadpisanie metody run klasy Thread
 
             /* TODO:
-             1. wypisz na konsolę komunikat o rozpoczęciu i nazwę klasy (pole name)
-             2. poczekaj losowy czas (np. od 0 do 5 sekund)
-             3. wypisz na konsolę komunikat o zakończeniu */
+                1. wypisz na konsolę komunikat o rozpoczęciu i nazwę klasy (pole name)
+                2. poczekaj losowy czas (np. od 0 do 5 sekund)
+                3. wypisz na konsolę komunikat o zakończeniu */
 
             // Kod tutaj:
 

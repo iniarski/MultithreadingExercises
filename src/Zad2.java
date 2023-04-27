@@ -49,7 +49,8 @@ public class Zad2 {
         @Override
         public void run() { // <- zdefiniowanie metody run
 
-            /* TODO:
+            /*
+            TODO:
              1. wypisz na konsolę komunikat o rozpoczęciu i nazwę klasy (pole name)
              2. poczekaj losowy czas (np. od 0 do 5 sekund)
              3. wypisz na konsolę komunikat o zakończeniu */

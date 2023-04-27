@@ -32,12 +32,11 @@ public class Zad3 {
                 klasy implementującej Runnable
 
                     TODO:
-                    Zapisz do sumsArray sumy kolejnych 10 liczb
-                    sumsArray[0] to suma liczb 0 - 9
-                    sumsArray[1] to suma liczb 10 - 19 itd.
-
-                    Spróbuj zastąpi zmienną finalI itreratorem pętli (i)
-                    Co się stanie?
+                        Zapisz do sumsArray sumy kolejnych 10 liczb
+                        sumsArray[0] to suma liczb 0 - 9
+                        sumsArray[1] to suma liczb 10 - 19 itd...
+                        Spróbuj zastąpi zmienną finalI itreratorem pętli (i)
+                        Co się stanie?
                  */
 
                 int sum = 0;

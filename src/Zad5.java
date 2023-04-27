@@ -23,13 +23,11 @@ public class Zad5 {
 
         /*
         TODO:
-        Zapoznaj się ze stworzoną wyżej klasą Counter
-
-        Stwórz dwa Thready, a w nich wywołaj metodę increment() na obiekcie c klasy Counter wiele razy (np. 1024)
-        zaczekaj aż skończą się wykonywać
-
-        Czy wynik jest zgodny z oczekiwaniami?
-        Odkomentuj słowo kluczowe synchronized, czy teraz wynik się zgadza?
+            Zapoznaj się ze stworzoną wyżej klasą Counter
+            Stwórz dwa Thready, a w nich wywołaj metodę increment() na obiekcie c klasy Counter wiele razy (np. 1024)
+            zaczekaj aż skończą się wykonywać
+            Czy wynik jest zgodny z oczekiwaniami?
+            Odkomentuj słowo kluczowe synchronized, czy teraz wynik się zgadza?
          */
 
         // Pytanie 5: Dlaczego bez użycia synchronized wynik był błedny?

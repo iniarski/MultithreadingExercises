@@ -20,8 +20,9 @@ public class Zad4 {
 
         // Kod tutaj:
 
-        // TODO:
+
         /*
+        TODO:
             wywołaj na threadach metody start i join
             w jakiej kolejności to zrobisz (start, join, start, join, start, join czy
             start, start, start, join, join, join), dlaczego?
@@ -49,7 +50,8 @@ public class Zad4 {
         @Override
         public void run() { // <- zdefiniowanie metody run
 
-            /* TODO:
+            /*
+            TODO:
              1. wypisz na konsolę komunikat o rozpoczęciu i nazwę klasy (pole name)
              2. poczekaj losowy czas (np. od 0 do 5 sekund)
              3. wypisz na konsolę komunikat o zakończeniu */

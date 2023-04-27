@@ -25,11 +25,11 @@ Wywołanie thread.join() blokuje obecny wątek, aż wątek thread zakończy swoj
 ### Keyword synchronized
 Wymagane jest uzupełnienie w opdowiedni sposób metody main() w celu utworzenia oraz uruchomienia wątków, oraz przetestowanie dwóch przypadków implementacji metody increment() - z użyciem słówka synchronized oraz bez niego.
 Słowo kluczowe synchronized zapewnia mechanizm blokowania, który chroni przed wystąpieniem problemów związanych z równoczesnym dostępem do współdzielonych zasobów przez wiele wątków. Zapewnia spójność i bezpieczeństwo operacji na tych zasobach.
-## [Zadanie 6](https://github.com/iniarski/MultithreadingExercises/blob/main/src/Zad5.java)
+## [Zadanie 6](https://github.com/iniarski/MultithreadingExercises/blob/main/src/Zad6.java)
 ### Thread pool
 W tym zadaniu przedstawione będzie tworzenie i działanie Thread Poola. 
 Fixed Thread Pool (stały pulik wątków) jest mechanizmem zarządzania wątkami w języku Java, który pozwala na efektywne wykorzystanie ograniczonego zestawu wątków do przetwarzania zadań. W puliku wątków o stałej wielkości określa się, ile wątków ma być utworzonych i dostępnych do przetwarzania zadań.
-## [Zadanie 7](https://github.com/iniarski/MultithreadingExercises/blob/main/src/Zad5.java)
+## [Zadanie 7](https://github.com/iniarski/MultithreadingExercises/blob/main/src/Zad7.java)
 ### AtomicReference
 W ostatnim zadaniu omówona zostania klasa Atomic reference. 
 Służy do manipulowania referencjami obiektów w sposób bezpieczny dla wątków (thread-safe). 
